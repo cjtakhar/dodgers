@@ -7,7 +7,7 @@ function Api() {
 
   const fetchStatsData = async () => {
     try {
-      const response = await axios.get('http://localhost:5000/games');
+      const response = await axios.get('https://mlb-core-api.wl.r.appspot.com/games');
       const sortedData = response.data.sort(
         (a, b) => b.BattingAverage - a.BattingAverage
       );

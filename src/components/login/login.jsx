@@ -9,7 +9,7 @@ const Login = () => {
     const handleSubmit = async (e) => {
         e.preventDefault()
         try {
-            const res = await fetch('http://localhost:5000/api/auth/login', {
+            const res = await fetch('https://mlb-core-api.wl.r.appspot.com/api/auth/login', {
                 method: 'POST',
                 body: JSON.stringify({ username, password }),
                 headers: { 'Content-Type': 'application/json' }
