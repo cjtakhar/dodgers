@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/dodgers/static/css/main.f582afa4.css",
+    "main.js": "/dodgers/static/js/main.fa570f28.js",
+    "static/js/787.471851c2.chunk.js": "/dodgers/static/js/787.471851c2.chunk.js",
+    "static/media/dodgers.jpg": "/dodgers/static/media/dodgers.66048fb97d7c98e24d9c.jpg",
+    "index.html": "/dodgers/index.html",
+    "main.f582afa4.css.map": "/dodgers/static/css/main.f582afa4.css.map",
+    "main.fa570f28.js.map": "/dodgers/static/js/main.fa570f28.js.map",
+    "787.471851c2.chunk.js.map": "/dodgers/static/js/787.471851c2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f582afa4.css",
+    "static/js/main.fa570f28.js"
+  ]
+}
